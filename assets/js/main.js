@@ -93,9 +93,9 @@
 
   // ========= glightbox
   const myGallery = GLightbox({
-    href: "https://drive.google.com/file/d/1c8nbR-MxM-kq4CrVhNqGeZ5ub2ZBQ31c/view",
+    href: "https://www.youtube.com/watch?v=Jr-Nui86x0s",
     type: "video",
-    source: "local", //vimeo, youtube or local
+    source: "youtube", //vimeo, youtube or local
     width: 900,
     autoplayVideos: true,
   });
