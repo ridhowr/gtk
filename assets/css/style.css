@@ -2150,3 +2150,21 @@ p {
 .pb-225 {
   padding-bottom: 225px;
 }
+
+.float{
+	position:fixed;
+	width:100px;
+	height:80px;
+	bottom:40px;
+	right:40px;
+	background-color:#810bcf;
+	color:#810bcf;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:20px;
+}
