@@ -129,6 +129,14 @@ p {
   height: 100%;
 }
 
+.bg_cover-apps {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 50%;
+}
+
 /*===== All Button Style =====*/
 .main-btn {
   display: inline-block;
@@ -2167,3 +2175,4 @@ p {
 .my-float{
 	margin-top:20px;
 }
+
