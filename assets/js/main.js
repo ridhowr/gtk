@@ -24,17 +24,6 @@
       header_navbar.classList.remove("sticky");
       logo.src = "https://ridhowr.github.io/gtk/assets/images/logo/logo.svg";
     }
-
-    // show or hide the back-top-top button
-    const backToTop = document.querySelector(".back-to-top");
-    if (
-      document.body.scrollTop > 50 ||
-      document.documentElement.scrollTop > 50
-    ) {
-      backToTop.style.display = "flex";
-    } else {
-      backToTop.style.display = "none";
-    }
   };
 
   // ==== for menu scroll
