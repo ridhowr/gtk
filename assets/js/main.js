@@ -22,7 +22,7 @@
       logo.src = "https://ridhowr.github.io/gtk/assets/images/logo/logo-2.svg";
     } else {
       header_navbar.classList.remove("sticky");
-      logo.src = "https://ridhowr.github.io/gtk/assets/images/logo/logo.svg";
+      logo.src = "https://ridhowr.github.io/gtk/assets/images/logo/Jarvis 2_LogoWhite(3).png";
     }
   };
 
