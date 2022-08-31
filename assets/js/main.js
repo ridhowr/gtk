@@ -19,7 +19,7 @@
 
     if (window.pageYOffset > sticky) {
       header_navbar.classList.add("sticky");
-      logo.src = "https://ridhowr.github.io/gtk/assets/images/logo/logo-2.svg";
+      logo.src = "https://ridhowr.github.io/gtk/assets/images/logo/Jarvis2_LogoColor-dark.png";
     } else {
       header_navbar.classList.remove("sticky");
       logo.src = "https://ridhowr.github.io/gtk/assets/images/logo/Jarvis 2_LogoWhite(3).png";
