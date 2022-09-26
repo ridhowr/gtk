@@ -5405,7 +5405,9 @@ button.bg-orange:focus {
   background-color: #c89000 !important; }
 
 .bg-lightblue {
-  background-color: #810bcf !important; }
+  background-image: url(https://i.ibb.co/b6kGqGr/Background-01.png);
+  background-repeat: no-repeat;
+  background-size: 300px 100px; }
 
 a.bg-lightblue:hover, a.bg-lightblue:focus,
 button.bg-lightblue:hover,
