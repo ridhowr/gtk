@@ -5406,8 +5406,7 @@ button.bg-orange:focus {
 
 .bg-lightblue {
   background-image: url(https://i.ibb.co/b6kGqGr/Background-01.png);
-  background-repeat: no-repeat;
-  background-size: 300px 100px; }
+  background-color: #e8f3ec !important; }
 
 a.bg-lightblue:hover, a.bg-lightblue:focus,
 button.bg-lightblue:hover,
@@ -8972,6 +8971,7 @@ a.text-dark:hover {
       color: rgba(0, 0, 0, 0.9); }
 
 .jumbotron {
+  background-size: cover;
   padding: 7rem 1rem; }
 
 @media (min-width: 992px) {
