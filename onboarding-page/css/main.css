@@ -8972,7 +8972,7 @@ a.text-dark:hover {
       color: rgba(0, 0, 0, 0.9); }
 
 .jumbotron {
-  background-size: cover;
+  background-size: contain;
   padding: 7rem 1rem; }
 
 @media (min-width: 992px) {
